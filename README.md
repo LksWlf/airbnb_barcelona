@@ -18,7 +18,7 @@ First data loading and table creation: I have used MySQL to create the table and
 We use **Tableau** public to create a Dashboard and visualize our data and findings in different graphs.
 
 ## Result
-The Tableau dashboard shows that Airbnb Listings appear throughout the city, but the city center and tourist locations particularly are very crowded. 
+The **Tableau Dashboard** (https://public.tableau.com/app/profile/lukas.wolf8219/viz/AirbnbListingsinBarcelona_17197895552310/Dashboard1) shows that Airbnb Listings appear throughout the city, but the city center and tourist locations particularly are very crowded. 
 Around half of all Listings actually rent out the entire apartment - long-term housing for inhabitants is clearly being displaced here. In the case of individual, private rooms, it may still be possible to argue that locals want (or need) to earn some extra money.
 It is also noticeable that the maior proportion of Listings are marketed by hosts who have placed several Listings. This indicates a predominantly commercial use. This is particularly noticeable with Listings of entire apartments.
 
